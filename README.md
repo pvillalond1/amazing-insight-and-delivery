@@ -1,37 +1,56 @@
-## Welcome to GitHub Pages
+## awesome insight and delivery
 
-You can use the [editor on GitHub](https://github.com/Lewisham-Insight-and-Delivery/awesome-insight-and-delivery/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### cartography
+* [principles and algorithms](https://cartography-playground.gitlab.io/) - some approachs to mapping data 
+* [multivariate dot density mapping](http://andrewgaidus.com/Dot_Density_County_Maps/) - showing many groups at once
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### chatbots
+* [council chatbots](https://futr.ai/ai-in-local-government-3-fascinating-examples/?hss_channel=tw-992422381699371013)
 
-### Markdown
+### csv
+* [csvlint](https://csvlint.io/) - validation and linting suggestions
+* [data-curator](https://github.com/qcif/data-curator) - desktop csv editor and validator suitable for preparing open data
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### geojson
+[geojson tools](https://geojson.tools/)
+[geojsonlint](https://geojsonlint.com/)
+[conversion](https://ogre.adc4gis.com/)
+[csv2geojson](https://odileeds.github.io/CSV2GeoJSON/)
 
-```markdown
-Syntax highlighted code block
+### git-scraping
+* [flat data](https://next.github.com/projects/flat-data) - scraping and flattening data for inclusion in tables
 
-# Header 1
-## Header 2
-### Header 3
+### json
+* [flattening with jq](https://til.simonwillison.net/jq/flatten-nested-json-objects-jq)
+* [jq playground](https://www.jqkungfu.com/)
+* [jsonlint](https://jsonlint.com/)
 
-- Bulleted
-- List
+### open datasets
+* [commonplaces](https://duckduckgo.com/?q=site%3A+commonplace.is+lewisham&t=ffab&atb=v265-1&ia=web) - collection of commonplac.es consultations for lewisham
+* [fixymystreet](https://www.fixmystreet.com/open311/) - open api to envirocrime reporting
+* [lovecleanstreets](https://api.mediaklik.com/reports/livereports2/?age=1&authorityid=241) - envirocrime reporting service
+* [londonair](https://api.erg.ic.ac.uk/AirQuality/help) - near-realtime air-sensor data
+* [datastore](https://data.london.gov.uk/dataset?tag=lewisham&q=) - gla datasets tagged with lewisham
 
-1. Numbered
-2. List
+### openstreetmap
+* [overpass turbo](https://overpass-turbo.eu/) - feature query tool
+* [node/way/relation history](http://osm.mapki.com/history/) - prior changesets for a given feature
+* [tagfinder](https://tagfinder.herokuapp.com/) - exploring tag uses
+* [taginfo](https://taginfo.openstreetmap.org/) - exploring tag uses
+* [live conflation](https://github.com/systemed/conflation) - tool for manually merging third party datasets
+* [mapcomplete](https://mapcomplete.osm.be/cafes_and_pubs.html?z=13&lat=51.45357&lon=-0.01175&language=en) - thematic mapping (pubs/cafes example)
 
-**Bold** and _Italic_ and `Code` text
+### service design
+* [list of local government services](https://standards.esd.org.uk/?uri=list%2FenglishAndWelshServices)
+* starting out in stockport [part 1](https://www.digitalstockport.info/my-journey-into-service-design-in-local-government-part-1-learning-points/) / [part 2](https://www.digitalstockport.info/my-journey-into-service-design-in-local-government-part-2-new-opportunities/)
+* [service design tools](https://servicedesigntools.org/)
+* [emergency housing design](https://www.designcouncil.org.uk/resources/case-study/lewisham-council) - case study of the design council housing work for lewisham
 
-[Link](url) and ![Image](src)
-```
+### sqlite
+* [datasette](https://datasette.io/) - a data warehouse, website and api with many plugins
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### strategy
+* [dwp principles](https://dataingovernment.blog.gov.uk/2021/10/19/developing-a-data-strategy-and-delivering-it/)
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Lewisham-Insight-and-Delivery/awesome-insight-and-delivery/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### visualisation
+* [data-to-viz](https://www.data-to-viz.com/)
