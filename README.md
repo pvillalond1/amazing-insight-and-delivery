@@ -15,6 +15,9 @@
 * [csvlint](https://csvlint.io/) - validation and linting suggestions
 * [data-curator](https://github.com/qcif/data-curator) - desktop csv editor and validator suitable for preparing open data
 
+### geography
+* [reconciling statistical and administrative geometries](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/methodologies/methodologynoteonproductionofsmallareapopulationestimatesoctober2017#methods)
+
 ### geojson
 * [geojson tools](https://geojson.tools/)
 * [geojsonlint](https://geojsonlint.com/)
