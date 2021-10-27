@@ -1,4 +1,4 @@
-## awesome insight and delivery
+## amazing insight and delivery
 
 ### benchmarking
 * [ifs local](https://ifs.org.uk/research/local-dashboard)
