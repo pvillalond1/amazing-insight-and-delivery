@@ -15,6 +15,9 @@
 * [csvlint](https://csvlint.io/) - validation and linting suggestions
 * [data-curator](https://github.com/qcif/data-curator) - desktop csv editor and validator suitable for preparing open data
 
+### dashboards
+* [IMD](https://app.powerbi.com/view?r=eyJrIjoiOTdjYzIyNTMtMTcxNi00YmQ2LWI1YzgtMTUyYzMxOWQ3NzQ2IiwidCI6ImJmMzQ2ODEwLTljN2QtNDNkZS1hODcyLTI0YTJlZjM5OTVhOCJ9)
+
 ### datasets (open data)
 * [commonplaces](https://duckduckgo.com/?q=site%3A+commonplace.is+lewisham&t=ffab&atb=v265-1&ia=web) - collection of commonplac.es consultations for lewisham
 * [fixymystreet](https://www.fixmystreet.com/open311/) - open api to envirocrime reporting
@@ -24,6 +27,7 @@
 * [council tax QRC4](https://www.gov.uk/government/publications/quarterly-return-of-council-taxes-and-non-domestic-rates)
 * [epc data](https://epc.opendatacommunities.org/) - registration required
 * [IMD](https://data.london.gov.uk/dataset/indices-of-deprivation) - cut for london (also see [analysis](https://data.london.gov.uk/blog/indices-of-deprivation-2019-initial-analysis/))
+
 ### geography
 * [reconciling statistical and administrative geometries](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/methodologies/methodologynoteonproductionofsmallareapopulationestimatesoctober2017#methods)
 
