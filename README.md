@@ -15,6 +15,15 @@
 * [csvlint](https://csvlint.io/) - validation and linting suggestions
 * [data-curator](https://github.com/qcif/data-curator) - desktop csv editor and validator suitable for preparing open data
 
+### datasets (open data)
+* [commonplaces](https://duckduckgo.com/?q=site%3A+commonplace.is+lewisham&t=ffab&atb=v265-1&ia=web) - collection of commonplac.es consultations for lewisham
+* [fixymystreet](https://www.fixmystreet.com/open311/) - open api to envirocrime reporting
+* [lovecleanstreets](https://api.mediaklik.com/reports/livereports2/?age=1&authorityid=241) - envirocrime reporting service
+* [londonair](https://api.erg.ic.ac.uk/AirQuality/help) - near-realtime air-sensor data
+* [datastore](https://data.london.gov.uk/dataset?tag=lewisham&q=) - gla datasets tagged with lewisham
+* [council tax QRC4](https://www.gov.uk/government/publications/quarterly-return-of-council-taxes-and-non-domestic-rates)
+* [epc data](https://epc.opendatacommunities.org/) - registration required
+* [IMD](https://data.london.gov.uk/dataset/indices-of-deprivation) - cut for london (also see [analysis](https://data.london.gov.uk/blog/indices-of-deprivation-2019-initial-analysis/))
 ### geography
 * [reconciling statistical and administrative geometries](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/methodologies/methodologynoteonproductionofsmallareapopulationestimatesoctober2017#methods)
 
@@ -35,13 +44,6 @@
 * [flattening with jq](https://til.simonwillison.net/jq/flatten-nested-json-objects-jq)
 * [jq playground](https://www.jqkungfu.com/)
 * [jsonlint](https://jsonlint.com/)
-
-### open datasets
-* [commonplaces](https://duckduckgo.com/?q=site%3A+commonplace.is+lewisham&t=ffab&atb=v265-1&ia=web) - collection of commonplac.es consultations for lewisham
-* [fixymystreet](https://www.fixmystreet.com/open311/) - open api to envirocrime reporting
-* [lovecleanstreets](https://api.mediaklik.com/reports/livereports2/?age=1&authorityid=241) - envirocrime reporting service
-* [londonair](https://api.erg.ic.ac.uk/AirQuality/help) - near-realtime air-sensor data
-* [datastore](https://data.london.gov.uk/dataset?tag=lewisham&q=) - gla datasets tagged with lewisham
 
 ### openstreetmap
 * [overpass turbo](https://overpass-turbo.eu/) - feature query tool
