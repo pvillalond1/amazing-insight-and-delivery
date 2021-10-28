@@ -58,7 +58,7 @@
 ### research
 * Vogl, T. (2021) [Artificial Intelligence in Local Government: Enabling Artificial Intelligence for Good Governance in UK Local Authorities](http://dx.doi.org/10.2139/ssrn.3840222).
 * Vogl, T.M., Seidelin, C., Ganesh, B. and Bright, J. (2020) "[Smart technology and the emergence of algorithmic bureaucracy: artificial intelligence in UK local authorities](http://dx.doi.org/10.1111/puar.13286)"
-* Ng, Andrew, [AI Transformation Playbook, 2020](https://landing.ai/ai-transformation-playbook/)
+* Ng, Andrew, (2020) [AI Transformation Playbook](https://landing.ai/ai-transformation-playbook/)
 * Bright, J., Ganesh, B., Seidelin, C. and Vogl, T.M. (2019) "[Data Science for Local Government](http://dx.doi.org/10.2139/ssrn.3370217)", SSRN Electronic Journal.
 * Bright, J.M., Lee, S.M., MARGETTS, H., Wang, N. and Hale, S. (2019) "[Explaining Download Patterns in Open Government Data: Citizen participation or private enterprise?](http://dx.doi.org/10.1504/ijeg.2019.101499)"
 
