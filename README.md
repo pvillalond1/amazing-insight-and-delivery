@@ -14,6 +14,7 @@
 ### csv
 * [csvlint](https://csvlint.io/) - validation and linting suggestions
 * [data-curator](https://github.com/qcif/data-curator) - desktop csv editor and validator suitable for preparing open data
+* [backofyourhand](https://backofyourhand.com/51.44523,-0.01957/EMUSLX) - test your street knowledge
 
 ### dashboards
 * [IMD](https://app.powerbi.com/view?r=eyJrIjoiOTdjYzIyNTMtMTcxNi00YmQ2LWI1YzgtMTUyYzMxOWQ3NzQ2IiwidCI6ImJmMzQ2ODEwLTljN2QtNDNkZS1hODcyLTI0YTJlZjM5OTVhOCJ9)
@@ -28,14 +29,16 @@
 * [epc data](https://epc.opendatacommunities.org/) - registration required
 * [IMD](https://data.london.gov.uk/dataset/indices-of-deprivation) - cut for london (also see [analysis](https://data.london.gov.uk/blog/indices-of-deprivation-2019-initial-analysis/))
 
-### geography
-* [reconciling statistical and administrative geometries](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/methodologies/methodologynoteonproductionofsmallareapopulationestimatesoctober2017#methods)
-
 ### geojson
 * [geojson tools](https://geojson.tools/)
 * [geojsonlint](https://geojsonlint.com/)
 * [conversion](https://ogre.adc4gis.com/)
 * [csv2geojson](https://odileeds.github.io/CSV2GeoJSON/)
+
+### geospatial analysis
+* [reconciling statistical and administrative geometries](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/methodologies/methodologynoteonproductionofsmallareapopulationestimatesoctober2017#methods)
+* [mapshaper](https://mapshaper.org/) - a wide range of geometry tools
+* [turf.js](https://turfjs.org/) - analysis tools
 
 ### git-scraping
 * [flat data](https://next.github.com/projects/flat-data) - scraping and flattening data for inclusion in tables
