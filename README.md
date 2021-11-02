@@ -90,3 +90,4 @@
 ### visualisation
 * [data-to-viz](https://www.data-to-viz.com/)
 * [litvis](https://www.gicentre.net/litvis)
+* [ft visual vocabulary](https://ft-interactive.github.io/visual-vocabulary/)
