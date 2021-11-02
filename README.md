@@ -91,3 +91,6 @@
 * [data-to-viz](https://www.data-to-viz.com/)
 * [litvis](https://www.gicentre.net/litvis)
 * [ft visual vocabulary](https://ft-interactive.github.io/visual-vocabulary/)
+* Treemaps
+  * [darknet markets](http://datavis.dekstop.de/darknet/20170811-treemap/)
+  * [billion-pound-o-gram](https://informationisbeautiful.net/visualizations/the-billion-pound-o-gram/)
