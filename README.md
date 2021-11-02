@@ -19,6 +19,10 @@
 ### dashboards
 * [IMD](https://app.powerbi.com/view?r=eyJrIjoiOTdjYzIyNTMtMTcxNi00YmQ2LWI1YzgtMTUyYzMxOWQ3NzQ2IiwidCI6ImJmMzQ2ODEwLTljN2QtNDNkZS1hODcyLTI0YTJlZjM5OTVhOCJ9)
 
+### data governance
+* [example of documents](https://www.octopai.com/data-dictionary-vs-business-glossary/)
+* [glossary/dictionary/catalogue](https://03cd0a8.netsolhost.com/wordpress/?p=303)
+
 ### datasets (open data)
 * [commonplaces](https://duckduckgo.com/?q=site%3A+commonplace.is+lewisham&t=ffab&atb=v265-1&ia=web) - collection of commonplac.es consultations for lewisham
 * [fixymystreet](https://www.fixmystreet.com/open311/) - open api to envirocrime reporting
