@@ -29,7 +29,7 @@
 * [lovecleanstreets](https://api.mediaklik.com/reports/livereports2/?age=1&authorityid=241) - envirocrime reporting service
 * [londonair](https://api.erg.ic.ac.uk/AirQuality/help) - near-realtime air-sensor data
 * [datastore](https://data.london.gov.uk/dataset?tag=lewisham&q=) - gla datasets tagged with lewisham
-* [council tax QRC4](https://www.gov.uk/government/publications/quarterly-return-of-council-taxes-and-non-domestic-rates)
+* [council tax QRC4](https://www.gov.uk/government/statistics/collection-rates-for-council-tax-and-non-domestic-rates-in-england-2015-to-2016)
 * [epc data](https://epc.opendatacommunities.org/) - registration required
 * [IMD](https://data.london.gov.uk/dataset/indices-of-deprivation) - cut for london (also see [analysis](https://data.london.gov.uk/blog/indices-of-deprivation-2019-initial-analysis/))
 
