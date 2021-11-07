@@ -92,7 +92,7 @@
 * [adult social care](https://www.gov.uk/government/publications/data-saves-lives-reshaping-health-and-social-care-with-data-draft/data-saves-lives-reshaping-health-and-social-care-with-data-draft#improving-data-for-adult-social-care)
 * [data maturity assessment](https://datamaturity.esd.org.uk/)
 * [better use of data](https://www.local.gov.uk/our-support/research-and-data/data-and-transparency/better-use-data)
-* [gloucestershite data management strategy](https://www.gloucestershire.gov.uk/media/2088939/2019-info-data-management-strategy-v1-0.pdf)
+* [gloucestershire data management strategy](https://www.gloucestershire.gov.uk/media/2088939/2019-info-data-management-strategy-v1-0.pdf)
 
 ### visualisation
 * [data-to-viz](https://www.data-to-viz.com/)
