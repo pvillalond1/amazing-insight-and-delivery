@@ -75,6 +75,8 @@
 * Bright, J., Ganesh, B., Seidelin, C. and Vogl, T.M. (2019) "[Data Science for Local Government](http://dx.doi.org/10.2139/ssrn.3370217)", SSRN Electronic Journal.
 * Bright, J.M., Lee, S.M., MARGETTS, H., Wang, N. and Hale, S. (2019) "[Explaining Download Patterns in Open Government Data: Citizen participation or private enterprise?](http://dx.doi.org/10.1504/ijeg.2019.101499)"
 * Behavioural Insight Team. (2010) [EAST: Four Simple Ways to Apply Behavioural Insights](https://www.bi.team/wp-content/uploads/2015/07/BIT-Publication-EAST_FA_WEB.pdf)
+* Policy in Practice. (2020) [Council Tax debt collection and low-income Londoners
+](https://policyinpractice.co.uk/wp-content/uploads/Council-Tax-debt-collection-and-low-income-Londoners_GLA_pub.pdf)
 
 ### service design
 * [list of local government services](https://standards.esd.org.uk/?uri=list%2FenglishAndWelshServices)
