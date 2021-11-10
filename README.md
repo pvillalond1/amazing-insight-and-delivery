@@ -99,6 +99,8 @@
 * [litvis](https://www.gicentre.net/litvis)
 * [ft visual vocabulary](https://ft-interactive.github.io/visual-vocabulary/)
 * [visualization curriculum](https://uwdata.github.io/visualization-curriculum/intro.html)
+* [color brewer](https://colorbrewer2.org/)
+* [i want hue](https://medialab.github.io/iwanthue/)
 * Treemaps
   * [darknet markets](http://datavis.dekstop.de/darknet/20170811-treemap/)
   * [billion-pound-o-gram](https://informationisbeautiful.net/visualizations/the-billion-pound-o-gram/)
