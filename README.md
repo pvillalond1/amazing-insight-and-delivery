@@ -7,6 +7,7 @@
 ### cartography
 * [principles and algorithms](https://cartography-playground.gitlab.io/) - some approachs to mapping data 
 * [multivariate dot density mapping](http://andrewgaidus.com/Dot_Density_County_Maps/) - showing many groups at once
+* [cartography guide](https://www.axismaps.com/guide) - insights and tips for designing maps
 
 ### chatbots
 * [council chatbots](https://futr.ai/ai-in-local-government-3-fascinating-examples/?hss_channel=tw-992422381699371013)
