@@ -84,8 +84,8 @@
 * starting out in stockport [part 1](https://www.digitalstockport.info/my-journey-into-service-design-in-local-government-part-1-learning-points/) / [part 2](https://www.digitalstockport.info/my-journey-into-service-design-in-local-government-part-2-new-opportunities/)
 * [service design tools](https://servicedesigntools.org/)
 * [emergency housing design](https://www.designcouncil.org.uk/resources/case-study/lewisham-council) - case study of the design council housing work for lewisham
-* [Good services] (https://loudowne.com/2018/06/14/15-principles-of-good-service-design/) - 15 principles of good service design
-* [Full Stack Service Design] (http://sarah-drummond.com/full-stack-service-design/) - A model that helps people to break services down into parts
+* [Good services](https://loudowne.com/2018/06/14/15-principles-of-good-service-design/) - 15 principles of good service design
+* [Full Stack Service Design](http://sarah-drummond.com/full-stack-service-design/) - A model that helps people to break services down into parts
 
 ### sqlite
 * [datasette](https://datasette.io/) - a data warehouse, website and api with many plugins
